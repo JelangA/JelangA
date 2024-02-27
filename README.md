@@ -33,7 +33,7 @@ Saya telah berkontribusi pada berbagai proyek yang melibatkan keahlian dalam mem
 
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
-- Email: [raharjojelang@gmail.com](raharjojelang@gmail.com)
+- Email: [raharjojelang@gmail.com]
 - LinkedIn: [linkedin.com/in/Jelang](https://www.linkedin.com/in/jelang-anugrah-785303258/)
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
