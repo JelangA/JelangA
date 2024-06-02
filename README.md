@@ -3,7 +3,11 @@
 
 ## Tentang Saya
 
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlNDRrNXhtNnExazcwMTVyNDNkeWx0MnI4dHl1bDdrNGtvczh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y70jyPYRIL1sZOcRJF/giphy.gif"  />
+
+
 Selamat datang di profil GitHub saya! Saya Jelang, seorang siswa di Politeknik Negeri Bandung, dengan spesialisasi dalam pengembangan **backend** dan **mobile**. Dengan pengalaman belajar selama 2 tahun di bidang ini, saya telah mengembangkan keahlian dalam pembuatan Restfull API dan Mobile Application, Saya berkomitmen untuk terus memperluas pengetahuan dan keterampilan saya dalam mengembangkan solusi teknologi yang inovatif dan efisien di kedua bidang tersebut.
+
 
 ## Kepakaran
 
@@ -83,9 +87,6 @@ Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
 
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRlNDRrNXhtNnExazcwMTVyNDNkeWx0MnI4dHl1bDdrNGtvczh5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y70jyPYRIL1sZOcRJF/giphy.gif"  />
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
