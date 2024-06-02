@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelangA&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JelangA&hide=cmake,C++CSS,PHP,html&theme=tokyonight)
-
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jelangA&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="jelangA's Stats" style="width: 45%; margin-right: 2%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelangA&theme=blueberry&show_icons=true&hide_border=true&layout=compact&hide=html,css,CMake" alt="jelangA's Top Languages" style="width: 34%;">
+</div>
 
 ## Tentang Saya
 
