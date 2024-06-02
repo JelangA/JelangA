@@ -12,6 +12,7 @@ Selamat datang di profil GitHub saya! Saya Jelang, seorang siswa di Politeknik N
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelangA&theme=blueberry&show_icons=true&hide_border=true&layout=compact&hide=html,css,CMake" alt="jelangA's Top Languages" style="width: 34%;">
 </div>
 <br>
+
 - **Backend**:Saya telah merancang, mengembangkan, dan mengintegrasikan beragam API RESTful dengan keamanan tinggi, menggunakan arsitektur design yang baik, serta memastikan kinerja optimal antara frontend dan backend.
 - **Mobile**: Dalam domain mobile, saya memiliki keahlian dalam mengembangkan aplikasi yang sudah terintegrasi dengan server dengan design pattern yang baik, penggunaan clean code. dan tampilan menarik.
 
